@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{11F8A700-FA03-4F43-A5C1-38D43F1109FD}|01_MainSubjects\\01_MainSubjects.csproj|solutionrelative:01_mainsubjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11702EC6-BBF0-41AF-A536-ABC2BCDE3C6B}|02_Variables\\02_Variables.csproj|c:\\users\\esra\\source\\repos\\csharpkampi\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11702EC6-BBF0-41AF-A536-ABC2BCDE3C6B}|02_Variables\\02_Variables.csproj|C:\\Users\\Esra\\source\\repos\\CSharpKampi\\02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11702EC6-BBF0-41AF-A536-ABC2BCDE3C6B}|02_Variables\\02_Variables.csproj|solutionrelative:02_variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "01_MainSubjects\\Program.cs",
               "ToolTip": "C:\\Users\\Esra\\source\\repos\\CSharpKampi\\01_MainSubjects\\Program.cs",
               "RelativeToolTip": "01_MainSubjects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwJcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T19:57:08.337Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "02_Variables\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T19:02:22.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T19:02:22.909Z"
             }
           ]
         }
